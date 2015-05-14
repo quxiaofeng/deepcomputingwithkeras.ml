@@ -1,12 +1,12 @@
 # IMPORTANT: Set this to false.
-demo: true
+demo: false
 
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
-copy: "A designer based in Vancouver, BC. I'm currently looking for a full-time role in UI design/development."
+photo: "http://www.deeplearningwithkeras.ml/images/keras-logo-small.jpg"
+name: "Deep Learning with Keras"
+copy: 'Keras is a minimalist, highly modular neural network library in the spirit of Torch, written in Python, that uses <a href="http://deeplearning.net/software/theano/">Theano</a> under the hood for fast tensor manipulation on GPU and CPU. It was developed with a focus on enabling fast experimentation.'
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
@@ -18,4 +18,4 @@ copy: "A designer based in Vancouver, BC. I'm currently looking for a full-time 
 # - purple
 # - teal
 # - green
-color: default
+color: blue
