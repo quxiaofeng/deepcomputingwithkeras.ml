@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "http://www.deeplearningwithkeras.ml/images/keras-logo-small.jpg"
+photo: "http://www.deepcomputingwithkeras.ml/images/keras-logo-small.jpg"
 name: "Deep Learning with Keras"
 copy: 'Keras is a minimalist, highly modular neural network library in the spirit of Torch, written in Python, that uses <a href="http://deeplearning.net/software/theano/">Theano</a> under the hood for fast tensor manipulation on GPU and CPU. It was developed with a focus on enabling fast experimentation.'
 
